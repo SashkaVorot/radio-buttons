@@ -1,0 +1,7 @@
+.checked{
+	text-decoration: underline;
+}
+
+.item{
+	cursor: pointer;
+}
